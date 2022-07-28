@@ -1,7 +1,5 @@
 *.pptx
-
 __pycache__
-
-data/*/*
-data/*/*/*
 data/**
+models/
+.ipynb_checkpoints
